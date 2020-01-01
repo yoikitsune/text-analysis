@@ -22,5 +22,5 @@
   "dependencies": {
     "rxjs": "^6.5.3"
   },
-  "repository": "github:yoikitsune/text_analysis"
+  "repository": "github:yoikitsune/text-analysis"
 }
