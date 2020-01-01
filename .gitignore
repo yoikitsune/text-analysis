@@ -1,0 +1,4 @@
+dist/
+node_modules/
+server/module1.txt
+server/sommaire.txt
